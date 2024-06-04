@@ -36,4 +36,4 @@ def translate_sbv(input_file, output_file, target_language='fa'):
 # Example usage:
 input_sbv = 'captions.sbv'
 output_sbv = 'translated_output.sbv'
-translate_sbv(input_sbv, output_sbv, 'fa')
+translate_sbv(input_sbv, output_sbv, 'en')  #en ترجمه به انگلیسی هست ، اگر زبان دیگری مد نظرتون هست این بخش رو تغییر بدید
